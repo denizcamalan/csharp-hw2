@@ -1,0 +1,15 @@
+/Users/denizcamalan/respitories/Projects/csharp-hw2/bin/Debug/net6.0/csharp-hw2
+/Users/denizcamalan/respitories/Projects/csharp-hw2/bin/Debug/net6.0/csharp-hw2.deps.json
+/Users/denizcamalan/respitories/Projects/csharp-hw2/bin/Debug/net6.0/csharp-hw2.runtimeconfig.json
+/Users/denizcamalan/respitories/Projects/csharp-hw2/bin/Debug/net6.0/csharp-hw2.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw2/bin/Debug/net6.0/csharp-hw2.pdb
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.csproj.AssemblyReference.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.AssemblyInfoInputs.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.AssemblyInfo.cs
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.csproj.CoreCompileInputs.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/refint/csharp-hw2.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.pdb
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/csharp-hw2.genruntimeconfig.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw2/obj/Debug/net6.0/ref/csharp-hw2.dll
