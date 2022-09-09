@@ -7,6 +7,7 @@ public class Ex1
         ArrayList thisPrime = new ArrayList();
         ArrayList nonPrime = new ArrayList();
         int n =0;
+        Console.WriteLine("Please enter "+count+" numbers :");
         while(n < count)
         {
             if(int.TryParse(Console.ReadLine(), out int numb) && numb > 0)

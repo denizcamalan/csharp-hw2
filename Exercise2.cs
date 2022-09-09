@@ -7,7 +7,7 @@ public class Ex2
         int n =0;
         int result1 = 0;
         int result2 = 0;
-
+        Console.WriteLine("Please enter "+count+" numbers :");
         while(n < count)
         {
             if(int.TryParse(Console.ReadLine(), out int numb) && numb > 0)
